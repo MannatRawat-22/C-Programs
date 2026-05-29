@@ -1,6 +1,6 @@
 # C Programs Repository
 
-Welcome to my C Programming repository 🚀
+Welcome to my C Programming repository 
 
 This repository contains basic C programs that I created while learning C programming as a BCA student. The main purpose of this repository is to practice coding, improve problem-solving skills, and keep all my programming work organized in one place.
 
